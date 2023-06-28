@@ -6,5 +6,3 @@ console.log("esse console foi feito no meu serviço via cloud")
 console.log("esse console foi feito no meu serviço localmente")
 //Alteração cloud 2 feita no serviço
 console.log("essa foi a segunda alteracao feita via cloud no meu serviço")
-//ALteração local 2 feita na aula
-console.log("Enviando para o GitHub")
